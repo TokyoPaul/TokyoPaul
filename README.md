@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TokyoPaul
-- 👀 I’m interested in data analytics, but particularly data cleaning, wrangling, whatever at the moment
-- 🌱 I’m currently learning how to process a 7.7 million record data set using Excel, Python, MySQL, ChatGPT4
+- 👀 I’m interested in data analytics, but particularly data cleaning/wrangling
+- 🌱 I’m currently processing a kaggle dataset with 7.7 million records using Excel, Python, and MySQL
+- I am using three different tools to compare their methods and performance on this project
 - 💞️ I’m looking to collaborate on Data Analytics projects 
-- 📫 How to reach me 
+- 📫 How to reach me: data.analyst@honyaku-plus.com
 
 <!---
 TokyoPaul/TokyoPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
