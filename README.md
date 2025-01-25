@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TokyoPaul
+- 👋 Hi, I’m @TokyoPaul, a bilingual (English and Japanese) American and long-time resident of Tokyo
 - 👀 I’m interested in data analytics, but particularly data cleaning/wrangling
 - 🌱 I’m currently processing a kaggle dataset with 7.7 million records using Excel, Python, and MySQL
 - I am using three different tools to compare their methods and performance on this project
